@@ -29,7 +29,7 @@
 
 <div class="Footer text-right">
     <div class="Footer-svelte text-end">
-    Sitio hecho con
+    Este sitio esta hecho con
     <img id="svelte" src="svelte-icon.png" alt="svelte">
     <img id="rollup" src="rollup.png" alt="svelte">
     <img id="boot" src="bootstrap.png" alt="svelte">
